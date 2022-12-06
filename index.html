@@ -163,16 +163,16 @@
 				   	<strong>CSS3</strong>
 				   </li>
 				   <li>
-				   	<div class="progress percent85"><span>85%</span></div>
-				   	<strong>JQuery</strong>
+				   	<div class="progress percent75"><span>75%</span></div>
+				   	<strong>Javascript</strong>
 				   </li>
 				   <li>
-				   	<div class="progress percent95"><span>95%</span></div>
+				   	<div class="progress percent90"><span>90%</span></div>
 				   	<strong>PHP</strong>
 				   </li>
 				   <li>
 
-				   	<div class="progress percent90"><span>90%</span></div>
+				   	<div class="progress percent95"><span>95%</span></div>
 				   	<strong>Wordpress</strong>
 				   </li>
       
@@ -949,23 +949,23 @@
    		<div class="col-twelve">
 
             <!-- form -->
-            <form name="contactForm" id="contactForm" method="post" action="">
+            <form name="contactForm" id="contactForm" action="">
       			<fieldset>
 
                   <div class="form-field">
- 						   <input name="contactName" type="text" id="contactName" placeholder="Name" value="" minlength="2" required="">
+ 						   <input name="name" type="text" id="name" placeholder="Name" value="" minlength="2" required="">
                   </div>
                   <div class="form-field">
-	      			   <input name="contactEmail" type="email" id="contactEmail" placeholder="Email" value="" required="">
+	      			   <input name="email" type="email" id="email" placeholder="Email" value="" required="">
 	               </div>
                   <div class="form-field">
-	     				   <input name="contactSubject" type="text" id="contactSubject" placeholder="Subject" value="">
+	     				   <input name="subject" type="text" id="subject" placeholder="Subject" value="">
 	               </div>                       
                   <div class="form-field">
-	                 	<textarea name="contactMessage" id="contactMessage" placeholder="Message" rows="10" cols="50" required=""></textarea>
+	                 	<textarea name="message" id="message" placeholder="Message" rows="10" cols="50" required=""></textarea>
 	               </div>                      
                  <div class="form-field">
-                     <button class="submitform">Submit</button>
+                     <button class="submitform" id="submit">Submit</button>
                      <div id="submit-loader">
                         <div class="text-loader">Sending...</div>                             
        				      <div class="s-loader">
@@ -980,7 +980,8 @@
       		</form> <!-- Form End -->
 
             <!-- contact-warning -->
-            <div id="message-warning">            	
+            <div id="message-warning">
+				<i class="fa fa-warning"></i>Upss, something is wrong!<br>
             </div>            
             <!-- contact-success -->
       		<div id="message-success">
@@ -1073,6 +1074,10 @@
    ================================================== --> 
    <script src="js/jquery-2.1.3.min.js"></script>
    <script src="js/plugins.js"></script>
+	<script type="text/javascript"	src="https://cdn.jsdelivr.net/npm/emailjs-com@2.4.0/dist/email.min.js"></script>
+	<script type="text/javascript">
+
+	</script>
    <script src="js/main.js"></script>
 
 </body>

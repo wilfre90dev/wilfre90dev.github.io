@@ -217,52 +217,52 @@
 	------------------------------------------------------ */
 
 	/* local validation */
-	$('#contactForm').validate({
-
-		/* submit via ajax */
-		submitHandler: function(form) {
-
-			var sLoader = $('#submit-loader');
-
-			$.ajax({      	
-
-		      type: "POST",
-		      url: "inc/sendEmail.php",
-		      data: $(form).serialize(),
-		      beforeSend: function() { 
-
-		      	sLoader.fadeIn(); 
-
-		      },
-		      success: function(msg) {
-
-	            // Message was sent
-	            if (msg == 'OK') {
-	            	sLoader.fadeOut(); 
-	               $('#message-warning').hide();
-	               $('#contactForm').fadeOut();
-	               $('#message-success').fadeIn();   
-	            }
-	            // There was an error
-	            else {
-	            	sLoader.fadeOut(); 
-	               $('#message-warning').html(msg);
-		            $('#message-warning').fadeIn();
-	            }
-
-		      },
-		      error: function() {
-
-		      	sLoader.fadeOut(); 
-		      	$('#message-warning').html("Something went wrong. Please try again.");
-		         $('#message-warning').fadeIn();
-
-		      }
-
-	      });     		
-  		}
-
-	});
+	// $('#contactForm').validate({
+	//
+	// 	/* submit via ajax */
+	// 	submitHandler: function(form) {
+	//
+	// 		var sLoader = $('#submit-loader');
+	//
+	// 		$.ajax({
+	//
+	// 	      type: "POST",
+	// 	      url: "inc/sendEmail.php",
+	// 	      data: $(form).serialize(),
+	// 	      beforeSend: function() {
+	//
+	// 	      	sLoader.fadeIn();
+	//
+	// 	      },
+	// 	      success: function(msg) {
+	//
+	//             // Message was sent
+	//             if (msg == 'OK') {
+	//             	sLoader.fadeOut();
+	//                $('#message-warning').hide();
+	//                $('#contactForm').fadeOut();
+	//                $('#message-success').fadeIn();
+	//             }
+	//             // There was an error
+	//             else {
+	//             	sLoader.fadeOut();
+	//                $('#message-warning').html(msg);
+	// 	            $('#message-warning').fadeIn();
+	//             }
+	//
+	// 	      },
+	// 	      error: function() {
+	//
+	// 	      	sLoader.fadeOut();
+	// 	      	$('#message-warning').html("Something went wrong. Please try again.");
+	// 	         $('#message-warning').fadeIn();
+	//
+	// 	      }
+	//
+	//       });
+  	// 	}
+	//
+	// });
 
 
  	/*----------------------------------------------------- */
@@ -289,3 +289,42 @@
 	});		
 
 })(jQuery);
+
+
+	(function(){
+	emailjs.init("GazMfRCI3XsPsLbbg");})();
+
+	// listen to the form submission
+	document
+	.getElementById("contactForm")
+	.addEventListener("submit", function (event) {
+	event.preventDefault();
+
+	const serviceID = "service_tn7b56w";
+	const templateID = "template_j1lizar";
+
+	emailjs.send("service_tn7b56w","template_j1lizar",{
+			from_name: document.getElementById("name").value,
+			user_email: document.getElementById("email").value,
+			subject: document.getElementById("subject").value,
+			message: document.getElementById("message").value,
+		}).then(
+		(response) => {
+			document.getElementById("message-success").style.display = 'block';
+		},
+		(error) => {
+			document.getElementById("message-warning").style.display = 'block';
+		}
+	);
+	});
+
+// 	// send the email here
+// 	emailjs.sendForm(serviceID, templateID, this).then(
+// 	(response) => {
+// 	document.getElementById("message-success").style.display = 'block';
+// },
+// 	(error) => {
+// 		document.getElementById("message-warning").style.display = 'block';
+// }
+// 	);
+// });
