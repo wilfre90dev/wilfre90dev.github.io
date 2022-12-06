@@ -966,7 +966,7 @@ button::-moz-focus-inner, input::-moz-focus-inner {
 	line-height: 2.4rem;
 }
 .skill-bars li .progress {
-	background: #313131;
+	background: var(--mainColor);
 	position: relative;
 	height: 100%;
 }
