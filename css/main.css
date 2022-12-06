@@ -1098,13 +1098,12 @@ header .row {
 }
 header .top-bar {
 	display: block;
-	background: #000000;
-	min-width: 220px;
 	min-height: 66px;
 	position: absolute;
-	left: 90px;
+	right: 0;
 	top: 0;
 }
+
 header .logo {
 	float: left;
 	margin-left: 20px;
@@ -1216,9 +1215,7 @@ header .logo a {
 /* navigation panel */
 #main-nav-wrap {
 	display: block;
-	width: 100%;
 	font-family: "poppins-medium", sans-serif;
-	font-size: 1.5rem;
 	position: absolute;
 	top: 100%;
 	left: 0;
@@ -1226,8 +1223,8 @@ header .logo a {
 
 /* dropdown nav */
 .main-navigation {
-	background: #000000;
-	padding: 24px 30px 42px;
+	background: #000000cc;
+	padding: 24px;
 	margin: 0;
 	width: 100%;
 	height: auto;
