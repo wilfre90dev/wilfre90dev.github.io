@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="3c7cd813-b2cd-422e-9ace-90cc5aed6048" name="Changes" comment="Adjusted profile pic and some texts">
+    <list default="true" id="3c7cd813-b2cd-422e-9ace-90cc5aed6048" name="Changes" comment="Changed color of clients satisfaction section">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/css/main.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/main.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
@@ -74,7 +74,7 @@
       <option name="presentableId" value="Default" />
       <updated>1670291386881</updated>
       <workItem from="1670291388416" duration="3194000" />
-      <workItem from="1670295455698" duration="4487000" />
+      <workItem from="1670295455698" duration="6319000" />
     </task>
     <task id="LOCAL-00001" summary="First commit">
       <created>1670291607260</created>
@@ -118,7 +118,14 @@
       <option name="project" value="LOCAL" />
       <updated>1670300523301</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="Changed color of clients satisfaction section">
+      <created>1670301622193</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1670301622193</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -142,6 +149,7 @@
     <MESSAGE value="Initial Commit" />
     <MESSAGE value="Changed Social links" />
     <MESSAGE value="Adjusted profile pic and some texts" />
-    <option name="LAST_COMMIT_MESSAGE" value="Adjusted profile pic and some texts" />
+    <MESSAGE value="Changed color of clients satisfaction section" />
+    <option name="LAST_COMMIT_MESSAGE" value="Changed color of clients satisfaction section" />
   </component>
 </project>
