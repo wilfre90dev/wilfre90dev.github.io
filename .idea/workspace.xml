@@ -2,93 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3c7cd813-b2cd-422e-9ace-90cc5aed6048" name="Changes" comment="Changed Social links">
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/css/base.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/css/font-awesome/css/font-awesome.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/css/font-awesome/css/font-awesome.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/css/font-awesome/fonts/FontAwesome.otf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/css/font-awesome/fonts/fontawesome-webfont.eot" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/css/font-awesome/fonts/fontawesome-webfont.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/css/font-awesome/fonts/fontawesome-webfont.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/css/font-awesome/fonts/fontawesome-webfont.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/css/fonts.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/css/main.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/css/micons/fonts/icomoon.eot" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/css/micons/fonts/icomoon.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/css/micons/fonts/icomoon.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/css/micons/fonts/icomoon.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/css/micons/micons.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/css/vendor.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/favicon.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fonts/lora/lora-bold-webfont.eot" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fonts/lora/lora-bold-webfont.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fonts/lora/lora-bold-webfont.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fonts/lora/lora-bold-webfont.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fonts/lora/lora-bolditalic-webfont.eot" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fonts/lora/lora-bolditalic-webfont.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fonts/lora/lora-bolditalic-webfont.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fonts/lora/lora-bolditalic-webfont.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fonts/lora/lora-italic-webfont.eot" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fonts/lora/lora-italic-webfont.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fonts/lora/lora-italic-webfont.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fonts/lora/lora-italic-webfont.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fonts/lora/lora-regular-webfont.eot" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fonts/lora/lora-regular-webfont.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fonts/lora/lora-regular-webfont.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fonts/lora/lora-regular-webfont.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fonts/lora/stylesheet.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fonts/poppins/poppins-bold-webfont.eot" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fonts/poppins/poppins-bold-webfont.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fonts/poppins/poppins-bold-webfont.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fonts/poppins/poppins-bold-webfont.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fonts/poppins/poppins-bold-webfont.woff2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fonts/poppins/poppins-light-webfont.eot" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fonts/poppins/poppins-light-webfont.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fonts/poppins/poppins-light-webfont.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fonts/poppins/poppins-light-webfont.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fonts/poppins/poppins-light-webfont.woff2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fonts/poppins/poppins-medium-webfont.eot" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fonts/poppins/poppins-medium-webfont.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fonts/poppins/poppins-medium-webfont.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fonts/poppins/poppins-medium-webfont.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fonts/poppins/poppins-medium-webfont.woff2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fonts/poppins/poppins-regular-webfont.eot" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fonts/poppins/poppins-regular-webfont.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fonts/poppins/poppins-regular-webfont.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fonts/poppins/poppins-regular-webfont.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fonts/poppins/poppins-regular-webfont.woff2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fonts/poppins/poppins-semibold-webfont.eot" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fonts/poppins/poppins-semibold-webfont.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fonts/poppins/poppins-semibold-webfont.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fonts/poppins/poppins-semibold-webfont.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fonts/poppins/poppins-semibold-webfont.woff2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fonts/poppins/stylesheet.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/bg.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/intro-bg.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/logo.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/portfolio/beetle.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/portfolio/clouds.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/portfolio/liberty.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/portfolio/lighthouse.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/portfolio/modals/m-beetle.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/portfolio/modals/m-clouds.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/portfolio/modals/m-liberty.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/portfolio/modals/m-lighthouse.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/portfolio/modals/m-salad.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/portfolio/modals/m-shutterbug.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/portfolio/salad.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/portfolio/shutterbug.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/profile-pic.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/sample-image.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/inc/sendEmail.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/js/jquery-2.1.3.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/js/main.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/js/modernizr.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/js/pace.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/js/plugins.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/styles.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/profile.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/main.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/main.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/profile-pic.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -118,15 +36,20 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;last_opened_file_path&quot;: &quot;D:/Desarrollo/Proyectos/Portfolio&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "D:/Desarrollo/Proyectos/Portfolio/images",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Desarrollo\Proyectos\Portfolio\images" />
+    </key>
+  </component>
   <component name="RunManager" selected="JavaScript Debug.index.html">
     <configuration name="Unnamed" type="JavascriptDebugType" nameIsGenerated="true">
       <method v="2" />
@@ -153,7 +76,7 @@
       <option name="presentableId" value="Default" />
       <updated>1670291386881</updated>
       <workItem from="1670291388416" duration="3194000" />
-      <workItem from="1670295455698" duration="1393000" />
+      <workItem from="1670295455698" duration="3383000" />
     </task>
     <task id="LOCAL-00001" summary="First commit">
       <created>1670291607260</created>
@@ -183,7 +106,14 @@
       <option name="project" value="LOCAL" />
       <updated>1670293195193</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Changed Social links">
+      <created>1670297520338</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1670297520338</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
