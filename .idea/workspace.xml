@@ -1,10 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="3c7cd813-b2cd-422e-9ace-90cc5aed6048" name="Changes" comment="Changed color of clients satisfaction section">
+    <list default="true" id="3c7cd813-b2cd-422e-9ace-90cc5aed6048" name="Changes" comment="Added portfolio modals images, texts and descriptions">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/css/main.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/main.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+    </list>
+    <list id="ee3285ea-836b-4d9c-aeba-9d87378ea4a1" name="Not used" comment="Not used">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -25,6 +27,22 @@
   <component name="GithubDefaultAccount">
     <option name="defaultAccountId" value="505e422b-2f7e-4889-be98-67cd10023774" />
   </component>
+  <component name="LineStatusTrackerManager">
+    <file path="$PROJECT_DIR$/.idea/workspace.xml">
+      <ranges>
+        <range start1="3" end1="4" start2="3" end2="4" changelist="3c7cd813-b2cd-422e-9ace-90cc5aed6048" />
+        <range start1="6" end1="7" start2="6" end2="9" changelist="3c7cd813-b2cd-422e-9ace-90cc5aed6048" />
+        <range start1="27" end1="27" start2="29" end2="45" changelist="3c7cd813-b2cd-422e-9ace-90cc5aed6048" />
+        <range start1="36" end1="43" start2="54" end2="61" changelist="3c7cd813-b2cd-422e-9ace-90cc5aed6048" />
+        <range start1="44" end1="45" start2="62" end2="63" changelist="3c7cd813-b2cd-422e-9ace-90cc5aed6048" />
+        <range start1="47" end1="47" start2="65" end2="68" changelist="3c7cd813-b2cd-422e-9ace-90cc5aed6048" />
+        <range start1="71" end1="71" start2="92" end2="93" changelist="3c7cd813-b2cd-422e-9ace-90cc5aed6048" />
+        <range start1="76" end1="77" start2="98" end2="102" changelist="3c7cd813-b2cd-422e-9ace-90cc5aed6048" />
+        <range start1="127" end1="128" start2="152" end2="209" changelist="ee3285ea-836b-4d9c-aeba-9d87378ea4a1" />
+        <range start1="152" end1="153" start2="233" end2="242" changelist="ee3285ea-836b-4d9c-aeba-9d87378ea4a1" />
+      </ranges>
+    </file>
+  </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
@@ -34,17 +52,20 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "D:/Desarrollo/Proyectos/Portfolio/images",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/Desarrollo/Proyectos/Portfolio/images/portfolio/modals&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Desarrollo\Proyectos\Portfolio\images\portfolio\modals" />
+      <recent name="D:\Desarrollo\Proyectos\Portfolio\images\portfolio" />
+      <recent name="D:\Desarrollo\Proyectos\Portfolio\includes" />
       <recent name="D:\Desarrollo\Proyectos\Portfolio\images" />
     </key>
   </component>
@@ -69,12 +90,16 @@
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
       <changelist id="3c7cd813-b2cd-422e-9ace-90cc5aed6048" name="Changes" comment="" />
+      <changelist id="ee3285ea-836b-4d9c-aeba-9d87378ea4a1" name="Not used" comment="" />
       <created>1670291386881</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1670291386881</updated>
       <workItem from="1670291388416" duration="3194000" />
-      <workItem from="1670295455698" duration="6319000" />
+      <workItem from="1670295455698" duration="8004000" />
+      <workItem from="1670337547911" duration="1182000" />
+      <workItem from="1670339055979" duration="13354000" />
+      <workItem from="1670355024189" duration="1715000" />
     </task>
     <task id="LOCAL-00001" summary="First commit">
       <created>1670291607260</created>

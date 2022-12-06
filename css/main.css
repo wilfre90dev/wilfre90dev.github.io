@@ -2607,4 +2607,11 @@ footer .copyright span:last-child::after {
 	font-size: 1.5rem;
 }
 
+.owl-carousel .owl-wrapper {
+	width: auto !important;
+}
+
+.owl-controls{
+	display: none !important;
+}
 /*# sourceMappingURL=main.css.map */
