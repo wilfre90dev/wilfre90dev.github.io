@@ -1946,9 +1946,9 @@ header .logo a {
 }
 .popup-modal .link-box a:first-child {
 	border-right: 1px solid rgba(200, 200, 200, 0.1);
+	background-color: var(--mainColor);
 }
 .popup-modal .link-box a:hover {
-	background: var(--mainColor);
 	border: none;
 }
 @media only screen and (max-width:600px) {
