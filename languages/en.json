@@ -1,0 +1,16 @@
+{
+    "menu": {
+        "home": "Home",
+        "about": "About",
+        "resume": "Resume",
+        "portfolio": "Portfolio",
+        "services": "Services",
+        "stats": "Stats",
+        "contact": "Contact"
+    },
+    "banner": {
+        "hello": "{Hello, World}",
+        "name": "I'm Wilfredo Palma.",
+        "developer": "Web and Wordpress Developer"
+    }
+}
