@@ -1218,7 +1218,7 @@ header .logo a {
 	font-family: "poppins-medium", sans-serif;
 	position: absolute;
 	top: 100%;
-	left: 0;
+	right: 5px;
 }
 
 /* dropdown nav */
@@ -1261,22 +1261,22 @@ header .logo a {
  */
 @media only screen and (max-width:1024px) {
 	header .top-bar {
-		left: 60px;
+		right: 10px;
 	}
 }
 @media only screen and (max-width:768px) {
 	header .top-bar {
-		left: 50px;
+		right: 5px;
 	}
 }
 @media only screen and (max-width:600px) {
 	header .top-bar {
-		left: 35px;
+		right: 5px;
 	}
 }
 @media only screen and (max-width:400px) {
 	header .top-bar {
-		left: 25px;
+		right: 5px;
 	}
 }
 
