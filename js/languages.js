@@ -54,7 +54,7 @@ function setLanguageWeb(language) {
         case 'en':
             changeLanguage(language);
             document.documentElement.setAttribute("lang", "en");
-            document.cookie = `userlang=en; expires=${new Date(new Date().getTime()+1000*60*60*24*365).toGMTString()}; path=/; domain=.wilfre90dev.github.io`;
+            document.cookie = `userlang=en; expires=${new Date(new Date().getTime()+1000*60*60*24*365).toGMTString()}; path=/; domain=wilfre90dev.github.io`;
             if (flagEnMobile != null){
             flagEsMobile.hidden = false
             flagEnMobile.hidden = true;
@@ -65,7 +65,7 @@ function setLanguageWeb(language) {
         case 'es':
             changeLanguage(language);
             document.documentElement.setAttribute("lang", "es");
-            document.cookie = `userlang=es; expires=${new Date(new Date().getTime()+1000*60*60*24*365).toGMTString()}; path=/; domain=.wilfre90dev.github.io`;
+            document.cookie = `userlang=es; expires=${new Date(new Date().getTime()+1000*60*60*24*365).toGMTString()}; path=/; domain=wilfre90dev.github.io`;
             if (flagEnMobile != null){
                 flagEsMobile.hidden = true
                 flagEnMobile.hidden = false;
