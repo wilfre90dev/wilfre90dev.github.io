@@ -2616,12 +2616,12 @@ footer .copyright span:last-child::after {
 }
 
 /*Mouse animation effect*/
-.icon-scroll,
-.icon-scroll:before {
+.icon-mouse,
+.icon-mouse:before {
 	position: absolute;
 	left: 50%
 }
-.icon-scroll {
+.icon-mouse {
 	width: 30px;
 	height: 50px;
 	margin-left: -20px;
@@ -2631,7 +2631,7 @@ footer .copyright span:last-child::after {
 	border-radius: 25px
 }
 
-.icon-scroll:before {
+.icon-mouse:before {
 	content: '';
 	width: 8px;
 	height: 8px;
@@ -2641,15 +2641,53 @@ footer .copyright span:last-child::after {
 	border-radius: 4px;
 	animation-duration: 1.5s;
 	animation-iteration-count: infinite;
-	animation-name: scroll
+	animation-name: scroll-mouse
 }
-@keyframes scroll {
+
+@keyframes scroll-mouse {
 	0% {
 		opacity: 1
 	}
 	100% {
 		opacity: 0;
 		transform: translateY(26px)
+	}
+}
+
+/*Touch animation effect*/
+.icon-touch,
+.icon-touch:before {
+	position: absolute;
+	left: 50%
+}
+.icon-touch {
+	width: 30px;
+	height: 50px;
+	margin-left: -20px;
+	bottom: 0;
+	margin-top: -35px;
+}
+
+.icon-touch:before {
+	content: '';
+	width: 20px;
+	height: 20px;
+	background: #fff;
+	margin-left: -4px;
+	top: 8px;
+	border-radius: 10px;
+	animation-duration: 1.5s;
+	animation-iteration-count: infinite;
+	animation-name: scroll-touch
+}
+
+@keyframes scroll-touch {
+	0% {
+		opacity: 1
+	}
+	100% {
+		opacity: 0;
+		transform: translateY(-26px)
 	}
 }
 /*end animation*/

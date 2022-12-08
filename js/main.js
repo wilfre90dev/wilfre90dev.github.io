@@ -318,13 +318,8 @@
 	);
 	});
 
-// 	// send the email here
-// 	emailjs.sendForm(serviceID, templateID, this).then(
-// 	(response) => {
-// 	document.getElementById("message-success").style.display = 'block';
-// },
-// 	(error) => {
-// 		document.getElementById("message-warning").style.display = 'block';
-// }
-// 	);
-// });
+
+
+	(function(){
+	if("ontouchstart" in document.documentElement)
+	document.getElementById("scroll").className = 'icon-touch';})();
