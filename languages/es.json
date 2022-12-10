@@ -39,7 +39,7 @@
         "codelight": "<h4>Codelight</h4>\n\t\t\t\t\t      <p>Codelight es una empresa que brinda un servicio completo a sus clientes a través de una experiencia personalizada en el proceso de desarrollo de software, apps, backend, frontend, computación en la nube y mucho más.</p>\n\n\t\t\t\t\t      <div class=\"categories\">Diseño y Desarrollo Web</div>"
     },
     "services": {
-        "title": "<h5>Servicios</h5>\n   \t\t\t<h1>¿Qué puedo hacer por ti?</h1>\n\n   \t\t\t<p class=\"lead\">Brindo servicios de alta calidad para nuevas empresas y pequeñas empresas. Si necesita un producto que funcione o un sitio web personalizado, póngase en contacto.</p>",
+        "title": "<h5>Servicios</h5>\n   \t\t\t<h1>¿Qué puedo hacer por ti?</h1>\n\n   \t\t\t<p class=\"lead\">Brindo servicios de alta calidad tanto a personas como a pequeñas y grandes empresas. Si necesita un producto que funcione o un sitio web personalizado, póngase en contacto.</p>",
         "web-design": "<h3>Diseño Web</h3>\n\n\t\t            <p class=\"desc\">Si tiene una idea para tu sitio web, puedo darle vida. Le ayudaré a construir un sitio que defina su marca y tenga un impacto en internet.\n\t         \t\t</p>",
         "web-dev": "<h3>Desarrollo web</h3>\n\n\t\t            <p class=\"desc\">Servicios de desarrollo web para todo tipo de empresas, pequeñas y grandes que buscan un sitio web nuevo o bien optimizado.</p>",
         "security": "<h3>Seguridad</h3>\n\n\t\t            <p class=\"desc\">Puedo mejorar la seguridad de su sitio web, recuperarlo de un ataque de hackers o ajustarlo a nuevos requisitos para mantener su información segura.</p>",
@@ -56,7 +56,7 @@
         "hours": "Horas"
     },
     "contact": {
-        "title": "<h5>Contacto</h5>\n   \t\t\t<h1>Me encantaría saber de usted.</h1>\n\n   \t\t\t<p class=\"lead\">Soy amable y disponible para charlar. Comuníquese conmigo en cualquier momento y con gusto responderé sus preguntas.</p>",
+        "title": "<h5>Contacto</h5>\n   \t\t\t<h1>Me encantaría saber de usted.</h1>\n\n   \t\t\t<p class=\"lead\">Soy amable y dispuesto a charlar. Comuníquese conmigo en cualquier momento y con gusto responderé sus preguntas.</p>",
         "submit": "Enviar",
         "message-warning": "<i class=\"fa fa-warning\"></i>¡Upss, algo anda mal!<br>",
         "message-success": "<i class=\"fa fa-check\"></i>¡Su mensaje fue enviado, gracias!<br>",
