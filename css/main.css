@@ -165,7 +165,7 @@ p.lead {
 	font-family: "lora-regular", serif;
 	font-size: 2rem;
 	line-height: 1.8;
-	color: #888888;
+	color: #444444;
 }
 @media only screen and (max-width:768px) {
 	p.lead {
@@ -1031,9 +1031,6 @@ button::-moz-focus-inner, input::-moz-focus-inner {
 .grey-section {
 	background: #f0f0f0;
 }
-.grey-section p.lead {
-	color: #7d7d7d;
-}
 .section-intro {
 	max-width: 700px;
 	margin-left: auto;
@@ -1051,7 +1048,7 @@ button::-moz-focus-inner, input::-moz-focus-inner {
 }
 .section-intro h5 {
 	color: var(--mainColor);
-	font-size: 4rem;
+	font-size: 5rem;
 	line-height: 1.875;
 	margin-bottom: 0.3rem;
 	letter-spacing: .4rem;
@@ -1075,7 +1072,7 @@ button::-moz-focus-inner, input::-moz-focus-inner {
 		font-size: 2.6rem;
 	}
 	.section-intro h5 {
-		font-size: 3rem;
+		font-size: 4rem;
 		letter-spacing: .3rem;
 	}
 }
@@ -1676,7 +1673,7 @@ header .logo a {
 #resume .timeline-header p {
 	font-family: "poppins-regular", sans-serif;
 	font-size: 1.6rem;
-	color: #888888;
+	color: #444444;
 }
 #resume .timeline-content {
 	margin-left: 35%;
@@ -1691,7 +1688,7 @@ header .logo a {
 	display: block;
 	height: 3px;
 	width: 50px;
-	background: rgba(0, 0, 0, 0.2);
+	background: var(--mainColor);
 	position: absolute;
 	left: 0;
 	bottom: 0;
