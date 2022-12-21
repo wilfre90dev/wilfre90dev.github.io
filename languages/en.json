@@ -61,7 +61,7 @@
         "submit": "Submit",
         "message-warning": "<i class=\"fa fa-warning\"></i>Upss, something is wrong!<br>",
         "message-success": "<i class=\"fa fa-check\"></i>Your message was sent, thank you!<br>",
-        "location": "<div class=\"icon\">\n   \t\t\t\t<i class=\"icon-pin\"></i>\n   \t\t\t</div>\n\n   \t\t\t<h5>Where to find me</h5>\n\n   \t\t\t<p>Havana, Cuba</p>",
+        "location": "<div class=\"icon\">\n   \t\t\t\t<i class=\"icon-pin\"></i>\n   \t\t\t</div>\n\n   \t\t\t<h5>Where to find me</h5>\n\n   \t\t\t<p style=\"color: #FFFFFF\">Havana, Cuba</p>",
         "email": "Email Me At",
         "call": "Call Me At"
     }
