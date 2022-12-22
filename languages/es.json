@@ -25,7 +25,7 @@
         "education": "<div class=\"col-twelve resume-header\">\n\n   \t\t\t<h2>Educación</h2>\n\n   \t\t</div> <!-- /resume-header -->\n\n   \t\t<div class=\"col-twelve\">\n\n   \t\t\t<div class=\"timeline-wrap\">\n\n\n\t   \t\t\t<div class=\"timeline-block\">\n\n\t   \t\t\t\t<div class=\"timeline-ico\">\n\t   \t\t\t\t\t<i class=\"fa fa-graduation-cap\"></i>\n\t   \t\t\t\t</div>\n\n\t   \t\t\t\t<div class=\"timeline-header\">\n\t   \t\t\t\t\t<h3>Ingeniería</h3>\n\t   \t\t\t\t\t<p>Septiembre 2009 - Junio 2014</p>\n\t   \t\t\t\t</div>\n\n\t   \t\t\t\t<div class=\"timeline-content\">\n\t   \t\t\t\t\t<h4>Universidad de las Ciencias Informáticas</h4>\n\t   \t\t\t\t\t<p><b>Tesis:</b> \"Sistema informático para la Fiabilidad del Control de Acceso en los Sistemas de Información\" </p>\n\t   \t\t\t\t</div>\n\n\t   \t\t\t</div> <!-- /timeline-block -->\n\n\n   \t\t\t</div> <!-- /timeline-wrap -->   \t\t\t\n\n   \t\t</div> "
     },
     "portfolio": {
-        "title": "<h5>Portafolio</h5>\n   \t\t\t<h1>Echa un vistazo a algunos de mis trabajos.</h1>\n\n   \t\t\t<p class=\"lead\">Una variada selección de mis trabajos terminados para resaltar su calidad y las múltiples tecnologías utilizadas en cada uno de mis proyectos.</p>",
+        "title": "<h5>Portafolio</h5>\n   \t\t\t<h1>Echa un vistazo a algunos de mis proyectos.</h1>\n\n   \t\t\t<p class=\"lead\">Una variada selección de mis proyectos terminados para resaltar su calidad y las múltiples tecnologías utilizadas en cada uno de mis proyectos.</p>",
         "wpawd": "Desarrollo WordPress y Web",
         "wdad": "Diseño y Desarrollo Web",
         "wpdad": "Diseño y Desarrollo WordPress",
