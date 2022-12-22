@@ -2693,3 +2693,32 @@ footer .copyright span:last-child::after {
 	margin-bottom: 1rem;
 }
 /*# sourceMappingURL=main.css.map */
+
+.soft-skill {
+	padding: 0 15px;
+	margin: 15px 0;
+	height: 50px;
+	font-size: 16px;
+	line-height: 50px;
+	border-radius: 25px;
+	border: #008dff 2px solid;
+	font-family: "poppins", sans-serif;
+}
+
+.soft-container{
+	display: flex;
+	flex-direction: row;
+	flex-wrap: wrap;
+	justify-content: space-between;
+	align-items: center;
+}
+
+.soft-skill:before {
+	margin-right: 5px;
+}
+
+@media only screen and (max-width:900px) {
+	.soft-skill {
+		margin: 5px 0;
+	}
+}
