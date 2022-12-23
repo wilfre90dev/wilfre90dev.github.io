@@ -1511,7 +1511,7 @@ header .logo a {
 .about-content {
 	position: relative;
 	text-align: left;
-	max-width: 850px;
+	max-width: 950px;
 	margin-bottom: 3.6rem;
 }
 .about-content h3 {
@@ -2705,12 +2705,13 @@ footer .copyright span:last-child::after {
 	font-family: "poppins", sans-serif;
 }
 
-.soft-container{
+.soft-container {
 	display: flex;
 	flex-direction: row;
 	flex-wrap: wrap;
-	justify-content: space-between;
+	justify-content: space-evenly;
 	align-items: center;
+	align-content: center;
 }
 
 .soft-skill:before {
