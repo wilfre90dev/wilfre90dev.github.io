@@ -1881,7 +1881,7 @@ header .logo a {
  * ------------------------------------------------------------------
  */
 .popup-modal {
-	max-width: 550px;
+	max-width: 80vh;
 	background: #FFFFFF;
 	position: relative;
 	margin: 0 auto;
