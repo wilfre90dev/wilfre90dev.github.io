@@ -44,9 +44,9 @@
         "web-design": "<h3>Diseño Web</h3>\n\n\t\t            <p class=\"desc\">Si tiene una idea para tu sitio web, puedo darle vida. Le ayudaré a construir un sitio que defina su marca y tenga un impacto en internet.\n\t         \t\t</p>",
         "web-dev": "<h3>Desarrollo web</h3>\n\n\t\t            <p class=\"desc\">Servicios de desarrollo web para todo tipo de empresas, pequeñas y grandes que buscan un sitio web nuevo o bien optimizado.</p>",
         "security": "<h3>Seguridad</h3>\n\n\t\t            <p class=\"desc\">Puedo mejorar la seguridad de su sitio web, recuperarlo de un ataque de hackers o ajustarlo a nuevos requisitos para mantener su información segura.</p>",
-        "seo": "<h3>Migración de sitio web</h3>\n\n\t\t            <p class=\"desc\">Servicios de migración de sitios web para migrar completamente su dominio o alojamiento. Los clientes van desde nuevas empresas hasta grandes empresas, lo que permite una transición sin problemas.</p>",
-        "migration": "<h3>Migración de sitio web</h3>\n\n\t\t            <p class=\"desc\">Servicios de migración de sitios web para migrar completamente su dominio o alojamiento. Los clientes van desde nuevas empresas hasta grandes empresas, lo que permite una transición sin problemas.</p>",
-        "consultancy": "<h3>Consultoría</h3>\n\n\t\t            <p class=\"desc\">La consultoría tecnológica ayuda a su empresa a acabar con la competencia. Ponemos a su disposición una buena gama de soluciones para hacer crecer su negocio.</p>"
+        "seo": "<h3>Optimización WEB/SEO</h3>\n\n\t\t            <p class=\"desc\">Conseguirás un mejor posicionamiento y altos rankings de páginas en todos los motores de búsqueda. Optimizaré el contenido de su sitio web, las imágenes y la velocidad general de carga del sitio.</p>",
+        "migration": "<h3>Migración de sitio web</h3>\n\n\t\t            <p class=\"desc\">Servicios de sitios web para migrar completamente su dominio o hosting. Los clientes van desde nuevas hasta grandes empresas, lo que permite una transición sin problemas.</p>",
+        "consultancy": "<h3>Consultoría</h3>\n\n\t\t            <p class=\"desc\">La consultoría tecnológica ayuda a su empresa a crecer contra la competencia. Pongo a su disposición una buena gama de soluciones para hacer crecer su negocio.</p>"
     },
     "stats": {
         "projects": "Completados Proyectos ",
