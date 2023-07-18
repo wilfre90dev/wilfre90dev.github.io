@@ -1,12 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="3c7cd813-b2cd-422e-9ace-90cc5aed6048" name="Changes" comment="Fixed style in services section">
+    <list default="true" id="540ca97d-2f2e-4ea5-89b6-b89e24b506fe" name="Changes" comment="Added NTSprint project to portfolio">
+      <change afterPath="$PROJECT_DIR$/images/portfolio/modals/ntsprint.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/portfolio/ntsprint.webp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/main.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/main.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/languages/en.json" beforeDir="false" afterPath="$PROJECT_DIR$/languages/en.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/languages/es.json" beforeDir="false" afterPath="$PROJECT_DIR$/languages/es.json" afterDir="false" />
     </list>
-    <list id="ee3285ea-836b-4d9c-aeba-9d87378ea4a1" name="Not used" comment="Not used" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -18,18 +20,27 @@
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="d58ab599a667a5d856912b9e475c89962f9d94ba" />
+        <entry key="$PROJECT_DIR$" value="5f0e19190f97e157b2a0b60316cf02c1824325c4" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RESET_MODE" value="HARD" />
   </component>
   <component name="GithubDefaultAccount">
     <option name="defaultAccountId" value="505e422b-2f7e-4889-be98-67cd10023774" />
   </component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="selectedUrlAndAccountId">
+      <UrlAndAccount>
+        <option name="accountId" value="505e422b-2f7e-4889-be98-67cd10023774" />
+        <option name="url" value="https://github.com/wilfre90dev/wilfre90dev.github.io.git" />
+      </UrlAndAccount>
+    </option>
+  </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
-  <component name="ProjectId" id="2IWJQ5dbhL9QZ3DYfHV1hdNO9n5" />
+  <component name="ProjectId" id="2IYUZVXbkid1VP2fbQjDkTh88o8" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -50,21 +61,22 @@
       <recent name="D:\Desarrollo\Proyectos\Portfolio\images\portfolio" />
       <recent name="D:\Desarrollo\Proyectos\Portfolio\includes" />
       <recent name="D:\Desarrollo\Proyectos\Portfolio\images" />
+      <recent name="D:\Desarrollo\Proyectos\Portfolio\js" />
     </key>
   </component>
   <component name="RunManager" selected="JavaScript Debug.index.html">
-    <configuration name="Unnamed" type="JavascriptDebugType" nameIsGenerated="true">
-      <method v="2" />
-    </configuration>
     <configuration name="index.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/Portfolio/index.html" useBuiltInWebServerPort="true">
       <method v="2" />
     </configuration>
-    <list>
-      <item itemvalue="JavaScript Debug.Unnamed" />
-      <item itemvalue="JavaScript Debug.index.html" />
-    </list>
+    <configuration name="styles.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/Portfolio/styles.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JavaScript Debug.index.html" />
+        <item itemvalue="JavaScript Debug.styles.html" />
+        <item itemvalue="JavaScript Debug.styles.html" />
+        <item itemvalue="JavaScript Debug.index.html" />
         <item itemvalue="JavaScript Debug.index.html" />
       </list>
     </recent_temporary>
@@ -72,131 +84,355 @@
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="3c7cd813-b2cd-422e-9ace-90cc5aed6048" name="Changes" comment="" />
-      <changelist id="ee3285ea-836b-4d9c-aeba-9d87378ea4a1" name="Not used" comment="" />
-      <created>1670291386881</created>
+      <changelist id="540ca97d-2f2e-4ea5-89b6-b89e24b506fe" name="Changes" comment="" />
+      <created>1670358069145</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1670291386881</updated>
-      <workItem from="1670291388416" duration="3194000" />
-      <workItem from="1670295455698" duration="8004000" />
-      <workItem from="1670337547911" duration="1182000" />
-      <workItem from="1670339055979" duration="13354000" />
-      <workItem from="1670355024189" duration="2789000" />
+      <updated>1670358069145</updated>
+      <workItem from="1670358071336" duration="5082000" />
+      <workItem from="1670373168493" duration="3675000" />
+      <workItem from="1670379534868" duration="320000" />
+      <workItem from="1670427018842" duration="5329000" />
+      <workItem from="1670437403339" duration="5690000" />
+      <workItem from="1670469374768" duration="2383000" />
+      <workItem from="1670511579228" duration="6789000" />
+      <workItem from="1670528019875" duration="4220000" />
+      <workItem from="1670595449208" duration="1806000" />
+      <workItem from="1670626016276" duration="1310000" />
+      <workItem from="1670950054811" duration="839000" />
+      <workItem from="1670995435446" duration="307000" />
+      <workItem from="1671136943414" duration="399000" />
+      <workItem from="1671137666916" duration="51000" />
+      <workItem from="1671137728065" duration="95000" />
+      <workItem from="1671138156532" duration="4148000" />
+      <workItem from="1671659887897" duration="5466000" />
+      <workItem from="1671728084377" duration="6460000" />
+      <workItem from="1671735773699" duration="772000" />
+      <workItem from="1671761188681" duration="2736000" />
+      <workItem from="1672073222537" duration="3596000" />
+      <workItem from="1672340340259" duration="9915000" />
+      <workItem from="1672760601452" duration="227000" />
+      <workItem from="1672760842927" duration="621000" />
+      <workItem from="1672783496269" duration="2095000" />
+      <workItem from="1673125129638" duration="18000" />
+      <workItem from="1675811584497" duration="835000" />
+      <workItem from="1676222684869" duration="658000" />
+      <workItem from="1679677626741" duration="1210000" />
+      <workItem from="1679935582737" duration="35000" />
+      <workItem from="1682000013803" duration="6857000" />
+      <workItem from="1682083892824" duration="179000" />
+      <workItem from="1682790196369" duration="618000" />
+      <workItem from="1689638627667" duration="1148000" />
     </task>
-    <task id="LOCAL-00001" summary="First commit">
-      <created>1670291607260</created>
+    <task id="LOCAL-00001" summary="Added email form and it works properly">
+      <created>1670363235240</created>
       <option name="number" value="00001" />
       <option name="presentableId" value="LOCAL-00001" />
       <option name="project" value="LOCAL" />
-      <updated>1670291607260</updated>
+      <updated>1670363235240</updated>
     </task>
-    <task id="LOCAL-00002" summary="First commit">
-      <created>1670292057309</created>
+    <task id="LOCAL-00002" summary="Added meta tags, robots.txt and sitemap.xml">
+      <created>1670374159395</created>
       <option name="number" value="00002" />
       <option name="presentableId" value="LOCAL-00002" />
       <option name="project" value="LOCAL" />
-      <updated>1670292057309</updated>
+      <updated>1670374159395</updated>
     </task>
-    <task id="LOCAL-00003" summary="Changed Main Color">
-      <created>1670293047109</created>
+    <task id="LOCAL-00003" summary="Fixed main menu position to the right">
+      <created>1670374927933</created>
       <option name="number" value="00003" />
       <option name="presentableId" value="LOCAL-00003" />
       <option name="project" value="LOCAL" />
-      <updated>1670293047109</updated>
+      <updated>1670374927933</updated>
     </task>
-    <task id="LOCAL-00004" summary="Changed Main Color again">
-      <created>1670293195193</created>
+    <task id="LOCAL-00004" summary="Fixed meta-logo url in meta tags">
+      <created>1670375058662</created>
       <option name="number" value="00004" />
       <option name="presentableId" value="LOCAL-00004" />
       <option name="project" value="LOCAL" />
-      <updated>1670293195193</updated>
+      <updated>1670375058662</updated>
     </task>
-    <task id="LOCAL-00005" summary="Changed Social links">
-      <created>1670297520338</created>
+    <task id="LOCAL-00005" summary="Changed fonts URL to import it from google">
+      <created>1670376075386</created>
       <option name="number" value="00005" />
       <option name="presentableId" value="LOCAL-00005" />
       <option name="project" value="LOCAL" />
-      <updated>1670297520338</updated>
+      <updated>1670376075386</updated>
     </task>
-    <task id="LOCAL-00006" summary="Adjusted profile pic and some texts">
-      <created>1670300523301</created>
+    <task id="LOCAL-00006" summary="Changed jquery URL to import it from CDN">
+      <created>1670376553298</created>
       <option name="number" value="00006" />
       <option name="presentableId" value="LOCAL-00006" />
       <option name="project" value="LOCAL" />
-      <updated>1670300523301</updated>
+      <updated>1670376553298</updated>
     </task>
-    <task id="LOCAL-00007" summary="Changed color of clients satisfaction section">
-      <created>1670301622193</created>
+    <task id="LOCAL-00007" summary="Fixed font awesome and Website meta title">
+      <created>1670427803977</created>
       <option name="number" value="00007" />
       <option name="presentableId" value="LOCAL-00007" />
       <option name="project" value="LOCAL" />
-      <updated>1670301622193</updated>
+      <updated>1670427803977</updated>
     </task>
-    <task id="LOCAL-00008" summary="Added some education and work experience texts">
-      <created>1670303469014</created>
+    <task id="LOCAL-00008" summary="Added email to social networks and removed facebook, instagram and twitter">
+      <created>1670428280312</created>
       <option name="number" value="00008" />
       <option name="presentableId" value="LOCAL-00008" />
       <option name="project" value="LOCAL" />
-      <updated>1670303469014</updated>
+      <updated>1670428280312</updated>
     </task>
-    <task id="LOCAL-00009" summary="Added gitignore">
-      <created>1670303549963</created>
+    <task id="LOCAL-00009" summary="Added mouse scroll icon and effect">
+      <created>1670429741286</created>
       <option name="number" value="00009" />
       <option name="presentableId" value="LOCAL-00009" />
       <option name="project" value="LOCAL" />
-      <updated>1670303549963</updated>
+      <updated>1670429741286</updated>
     </task>
-    <task id="LOCAL-00010" summary="Added favicon">
-      <created>1670304166426</created>
+    <task id="LOCAL-00010" summary="Changed fonts to default ones, removed CDN">
+      <created>1670430413520</created>
       <option name="number" value="00010" />
       <option name="presentableId" value="LOCAL-00010" />
       <option name="project" value="LOCAL" />
-      <updated>1670304166426</updated>
+      <updated>1670430413520</updated>
     </task>
-    <task id="LOCAL-00011" summary="Changed hire me and Download CV buttons color">
-      <created>1670304547379</created>
+    <task id="LOCAL-00011" summary="Increased margin bottom Hello World">
+      <created>1670434984572</created>
       <option name="number" value="00011" />
       <option name="presentableId" value="LOCAL-00011" />
       <option name="project" value="LOCAL" />
-      <updated>1670304547379</updated>
+      <updated>1670434984572</updated>
     </task>
-    <task id="LOCAL-00012" summary="Changed skill bars color">
-      <created>1670304671966</created>
+    <task id="LOCAL-00012" summary="Added languaje files for spanish and english">
+      <created>1670439954966</created>
       <option name="number" value="00012" />
       <option name="presentableId" value="LOCAL-00012" />
       <option name="project" value="LOCAL" />
-      <updated>1670304671966</updated>
+      <updated>1670439954966</updated>
     </task>
-    <task id="LOCAL-00013" summary="Added texts for services section and personal information">
-      <created>1670347510110</created>
+    <task id="LOCAL-00013" summary="Fixed domain for cookies">
+      <created>1670440204392</created>
       <option name="number" value="00013" />
       <option name="presentableId" value="LOCAL-00013" />
       <option name="project" value="LOCAL" />
-      <updated>1670347510110</updated>
+      <updated>1670440204392</updated>
     </task>
-    <task id="LOCAL-00014" summary="Added portfolio images and texts">
-      <created>1670348760357</created>
+    <task id="LOCAL-00014" summary="Fixed domain for cookies v2">
+      <created>1670440540370</created>
       <option name="number" value="00014" />
       <option name="presentableId" value="LOCAL-00014" />
       <option name="project" value="LOCAL" />
-      <updated>1670348760357</updated>
+      <updated>1670440540370</updated>
     </task>
-    <task id="LOCAL-00015" summary="Added portfolio modals images, texts and descriptions">
-      <created>1670352358930</created>
+    <task id="LOCAL-00015" summary="Finished english json file">
+      <created>1670515279589</created>
       <option name="number" value="00015" />
       <option name="presentableId" value="LOCAL-00015" />
       <option name="project" value="LOCAL" />
-      <updated>1670352358930</updated>
+      <updated>1670515279589</updated>
     </task>
-    <task id="LOCAL-00016" summary="Fixed style in services section">
-      <created>1670356789349</created>
+    <task id="LOCAL-00016" summary="Fixed english json file">
+      <created>1670528968480</created>
       <option name="number" value="00016" />
       <option name="presentableId" value="LOCAL-00016" />
       <option name="project" value="LOCAL" />
-      <updated>1670356789349</updated>
+      <updated>1670528968480</updated>
     </task>
-    <option name="localTasksCounter" value="17" />
+    <task id="LOCAL-00017" summary="Added script to detect if scroll or touch">
+      <created>1670528996980</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1670528996980</updated>
+    </task>
+    <task id="LOCAL-00018" summary="Removed slider from services on owl-wrapper component">
+      <created>1670596127211</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1670596127211</updated>
+    </task>
+    <task id="LOCAL-00019" summary="Fixed some spanish text">
+      <created>1670631621835</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1670631621835</updated>
+    </task>
+    <task id="LOCAL-00020" summary="CHanged Meta logo to describe my services">
+      <created>1670950166328</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1670950166328</updated>
+    </task>
+    <task id="LOCAL-00021" summary="Adjusted text of meta logo">
+      <created>1670995486994</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1670995486994</updated>
+    </task>
+    <task id="LOCAL-00022" summary="Changed made for improve SEO">
+      <created>1671138569713</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1671138569713</updated>
+    </task>
+    <task id="LOCAL-00023" summary="Changes made for improve Speed">
+      <created>1671139793978</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1671139793978</updated>
+    </task>
+    <task id="LOCAL-00024" summary="changed profile image format">
+      <created>1671139946873</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1671139946873</updated>
+    </task>
+    <task id="LOCAL-00025" summary="changed profile image format to png">
+      <created>1671660312431</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1671660312431</updated>
+    </task>
+    <task id="LOCAL-00026" summary="Changed footer text color">
+      <created>1671663666922</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1671663666922</updated>
+    </task>
+    <task id="LOCAL-00027" summary="Changed main background">
+      <created>1671665924749</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1671665924749</updated>
+    </task>
+    <task id="LOCAL-00028" summary="Changed some text color, fonts and pointer cursor on language flags">
+      <created>1671666579336</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1671666579336</updated>
+    </task>
+    <task id="LOCAL-00029" summary="Changed work to projects">
+      <created>1671667578308</created>
+      <option name="number" value="00029" />
+      <option name="presentableId" value="LOCAL-00029" />
+      <option name="project" value="LOCAL" />
+      <updated>1671667578308</updated>
+    </task>
+    <task id="LOCAL-00030" summary="Fixed Text for JAZC modal">
+      <created>1671728172810</created>
+      <option name="number" value="00030" />
+      <option name="presentableId" value="LOCAL-00030" />
+      <option name="project" value="LOCAL" />
+      <updated>1671728172810</updated>
+    </task>
+    <task id="LOCAL-00031" summary="Added Git as skill">
+      <created>1671729613539</created>
+      <option name="number" value="00031" />
+      <option name="presentableId" value="LOCAL-00031" />
+      <option name="project" value="LOCAL" />
+      <updated>1671729613539</updated>
+    </task>
+    <task id="LOCAL-00032" summary="Added Soft skills section">
+      <created>1671735896561</created>
+      <option name="number" value="00032" />
+      <option name="presentableId" value="LOCAL-00032" />
+      <option name="project" value="LOCAL" />
+      <updated>1671735896561</updated>
+    </task>
+    <task id="LOCAL-00033" summary="Adjusted Soft skills section width">
+      <created>1671761340249</created>
+      <option name="number" value="00033" />
+      <option name="presentableId" value="LOCAL-00033" />
+      <option name="project" value="LOCAL" />
+      <updated>1671761340249</updated>
+    </task>
+    <task id="LOCAL-00034" summary="Ajusted some misspellings">
+      <created>1671762408393</created>
+      <option name="number" value="00034" />
+      <option name="presentableId" value="LOCAL-00034" />
+      <option name="project" value="LOCAL" />
+      <updated>1671762408393</updated>
+    </task>
+    <task id="LOCAL-00035" summary="Added Google Search Console meta tag">
+      <created>1671767985186</created>
+      <option name="number" value="00035" />
+      <option name="presentableId" value="LOCAL-00035" />
+      <option name="project" value="LOCAL" />
+      <updated>1671767985186</updated>
+    </task>
+    <task id="LOCAL-00036" summary="Adjusted size of portfolio images">
+      <created>1672074133803</created>
+      <option name="number" value="00036" />
+      <option name="presentableId" value="LOCAL-00036" />
+      <option name="project" value="LOCAL" />
+      <updated>1672074133803</updated>
+    </task>
+    <task id="LOCAL-00037" summary="Adjusted size of language flags">
+      <created>1672074701915</created>
+      <option name="number" value="00037" />
+      <option name="presentableId" value="LOCAL-00037" />
+      <option name="project" value="LOCAL" />
+      <updated>1672074701915</updated>
+    </task>
+    <task id="LOCAL-00038" summary="Change some translations">
+      <created>1672075528595</created>
+      <option name="number" value="00038" />
+      <option name="presentableId" value="LOCAL-00038" />
+      <option name="project" value="LOCAL" />
+      <updated>1672075528595</updated>
+    </task>
+    <task id="LOCAL-00039" summary="Fixed some texts and translations">
+      <created>1672344548034</created>
+      <option name="number" value="00039" />
+      <option name="presentableId" value="LOCAL-00039" />
+      <option name="project" value="LOCAL" />
+      <updated>1672344548034</updated>
+    </task>
+    <task id="LOCAL-00040" summary="Translated soft skill into english">
+      <created>1672344766479</created>
+      <option name="number" value="00040" />
+      <option name="presentableId" value="LOCAL-00040" />
+      <option name="project" value="LOCAL" />
+      <updated>1672344766479</updated>
+    </task>
+    <task id="LOCAL-00041" summary="Added tabs to hard skills to filter it properly">
+      <created>1672362511601</created>
+      <option name="number" value="00041" />
+      <option name="presentableId" value="LOCAL-00041" />
+      <option name="project" value="LOCAL" />
+      <updated>1672362511601</updated>
+    </task>
+    <task id="LOCAL-00042" summary="Update CV in PDF to a new format">
+      <created>1675811823138</created>
+      <option name="number" value="00042" />
+      <option name="presentableId" value="LOCAL-00042" />
+      <option name="project" value="LOCAL" />
+      <updated>1675811823138</updated>
+    </task>
+    <task id="LOCAL-00043" summary="Update CV in PDF to fix errors">
+      <created>1676222726253</created>
+      <option name="number" value="00043" />
+      <option name="presentableId" value="LOCAL-00043" />
+      <option name="project" value="LOCAL" />
+      <updated>1676222726253</updated>
+    </task>
+    <task id="LOCAL-00044" summary="Added 3 new projects to portfolio">
+      <created>1682004645910</created>
+      <option name="number" value="00044" />
+      <option name="presentableId" value="LOCAL-00044" />
+      <option name="project" value="LOCAL" />
+      <updated>1682004645910</updated>
+    </task>
+    <option name="localTasksCounter" value="45" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -214,22 +450,31 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="First commit" />
-    <MESSAGE value="Changed Main Color" />
-    <MESSAGE value="Changed Main Color again" />
-    <MESSAGE value="Initial Commit" />
-    <MESSAGE value="Changed Social links" />
-    <MESSAGE value="Adjusted profile pic and some texts" />
-    <MESSAGE value="Changed color of clients satisfaction section" />
-    <MESSAGE value="Added some education and work experience texts" />
-    <MESSAGE value="Added gitignore" />
-    <MESSAGE value="Added favicon" />
-    <MESSAGE value="Changed hire me and Download CV buttons color" />
-    <MESSAGE value="Changed skill bars color" />
-    <MESSAGE value="Added texts for services section and personal information" />
-    <MESSAGE value="Added portfolio images and texts" />
-    <MESSAGE value="Added portfolio modals images, texts and descriptions" />
-    <MESSAGE value="Fixed style in services section" />
-    <option name="LAST_COMMIT_MESSAGE" value="Fixed style in services section" />
+    <MESSAGE value="Adjusted text of meta logo" />
+    <MESSAGE value="Changed made for improve SEO" />
+    <MESSAGE value="Changes made for improve Speed" />
+    <MESSAGE value="changed profile image format" />
+    <MESSAGE value="changed profile image format to png" />
+    <MESSAGE value="Changed footer text color" />
+    <MESSAGE value="Changed main background" />
+    <MESSAGE value="Changed some text color, fonts and pointer cursor on language flags" />
+    <MESSAGE value="Changed work to projects" />
+    <MESSAGE value="Fixed Text for JAZC modal" />
+    <MESSAGE value="Added Git as skill" />
+    <MESSAGE value="Added Soft skills section" />
+    <MESSAGE value="Adjusted Soft skills section width" />
+    <MESSAGE value="Ajusted some misspellings" />
+    <MESSAGE value="Added Google Search Console meta tag" />
+    <MESSAGE value="Adjusted size of portfolio images" />
+    <MESSAGE value="Adjusted size of language flags" />
+    <MESSAGE value="Change some translations" />
+    <MESSAGE value="Fixed some texts and translations" />
+    <MESSAGE value="Translated soft skill into english" />
+    <MESSAGE value="Added tabs to hard skills to filter it properly" />
+    <MESSAGE value="Update CV in PDF to a new format" />
+    <MESSAGE value="Update CV in PDF to fix errors" />
+    <MESSAGE value="Added 3 new projects to portfolio" />
+    <MESSAGE value="Added NTSprint project to portfolio" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added NTSprint project to portfolio" />
   </component>
 </project>

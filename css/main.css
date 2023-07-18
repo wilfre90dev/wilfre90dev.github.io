@@ -1103,7 +1103,7 @@ header .top-bar {
 	display: block;
 	min-height: 66px;
 	position: absolute;
-	right: 0;
+	right: -15px;
 	top: 0;
 }
 
