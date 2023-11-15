@@ -1398,7 +1398,7 @@ header .logo a {
 	width: 100%;
 	font-size: 3.3rem;
 	margin: 0;
-	padding: 0;
+	padding: 0 0 20px;
 }
 .intro-social li {
 	display: inline-block;
